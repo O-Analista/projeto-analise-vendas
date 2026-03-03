@@ -18,5 +18,10 @@ Criar um banco de dados no SQL Server e desenvolver um dashboard no Power BI par
 - Crescimento Anual
 - Ranking de Produtos
 
+## 📊 Dashboard de Vendas
+
+![Dashboard](imagens/dashboard-vendas.png)
+
 ## 👨‍💻 Autor
+
 Tiago Silva
